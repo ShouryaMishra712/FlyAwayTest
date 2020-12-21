@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="192999" started-at="2020-12-22T00:21:31 IST" finished-at="2020-12-22T00:24:44 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="169622" started-at="2020-12-22T00:21:31 IST" finished-at="2020-12-22T00:24:21 IST">
+      <class name="project.FlyAwayTest.testCases.UITestCases">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:project.FlyAwayTest.testCases.UITestCases@1d057a39]" name="beforeMethod" is-config="true" duration-ms="17441" started-at="2020-12-22T00:21:31 IST" finished-at="2020-12-22T00:21:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="T1()[pri:0, instance:project.FlyAwayTest.testCases.UITestCases@1d057a39]" name="T1" duration-ms="64060" started-at="2020-12-22T00:21:49 IST" finished-at="2020-12-22T00:22:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:project.FlyAwayTest.testCases.UITestCases@1d057a39]" name="afterMethod" is-config="true" duration-ms="497" started-at="2020-12-22T00:22:53 IST" finished-at="2020-12-22T00:22:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:project.FlyAwayTest.testCases.UITestCases@1d057a39]" name="beforeMethod" is-config="true" duration-ms="7506" started-at="2020-12-22T00:22:53 IST" finished-at="2020-12-22T00:23:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="T2()[pri:0, instance:project.FlyAwayTest.testCases.UITestCases@1d057a39]" name="T2" duration-ms="74513" started-at="2020-12-22T00:23:01 IST" finished-at="2020-12-22T00:24:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:project.FlyAwayTest.testCases.UITestCases@1d057a39]" name="afterMethod" is-config="true" duration-ms="5499" started-at="2020-12-22T00:24:15 IST" finished-at="2020-12-22T00:24:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- project.FlyAwayTest.testCases.UITestCases -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="21759" started-at="2020-12-22T00:24:22 IST" finished-at="2020-12-22T00:24:44 IST">
+      <class name="project.FlyAwayTest.testCases.APITestCases">
+        <test-method status="PASS" signature="Login()[pri:0, instance:project.FlyAwayTest.testCases.APITestCases@7cd62f43]" name="Login" duration-ms="17443" started-at="2020-12-22T00:24:22 IST" finished-at="2020-12-22T00:24:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Search()[pri:0, instance:project.FlyAwayTest.testCases.APITestCases@7cd62f43]" name="Search" duration-ms="3721" started-at="2020-12-22T00:24:40 IST" finished-at="2020-12-22T00:24:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method status="PASS" signature="Signup()[pri:0, instance:project.FlyAwayTest.testCases.APITestCases@7cd62f43]" name="Signup" duration-ms="595" started-at="2020-12-22T00:24:43 IST" finished-at="2020-12-22T00:24:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signup -->
+      </class> <!-- project.FlyAwayTest.testCases.APITestCases -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

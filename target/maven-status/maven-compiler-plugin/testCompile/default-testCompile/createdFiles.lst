@@ -1,0 +1,9 @@
+project\FlyAwayTest\apiCalls\CallAPIs.class
+project\FlyAwayTest\utility\ExcelReader.class
+project\FlyAwayTest\pages\Login.class
+project\FlyAwayTest\pages\Bookings.class
+project\FlyAwayTest\pages\EditProfile.class
+project\FlyAwayTest\testCases\APITestCases.class
+project\FlyAwayTest\testCases\UITestCases.class
+project\FlyAwayTest\pages\Signup.class
+project\FlyAwayTest\pages\Home.class
